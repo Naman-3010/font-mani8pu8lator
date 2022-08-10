@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px purple;
+    font-family: cursive;
+
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(53, 20, 220);
+    font-family: cursive;
+}
+
+.footer{
+    position: fixed;
+    font-size: 15px;
+    font-family: cursive;
+    color:rgb(232, 26, 26);
+    bottom: 0;
+    background-color:rgb(35, 206, 81) ;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    
+}
+
+canvas{
+    border: 5px solid rgb(126, 189, 231);
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px red;
+}
+
+body{
+    background-color: rgb(81, 46, 46);
+}
